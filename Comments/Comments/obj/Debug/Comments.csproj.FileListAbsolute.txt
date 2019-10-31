@@ -1,0 +1,6 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\bin\Debug\Comments.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\bin\Debug\Comments.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\bin\Debug\Comments.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\obj\Debug\Comments.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\obj\Debug\Comments.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter1\Comments\Comments\obj\Debug\Comments.pdb
